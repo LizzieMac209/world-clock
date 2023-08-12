@@ -13,7 +13,7 @@ body {
 select {
   display: block;
   margin: 30px;
-  width: 75%;
+  width: 90%;
   border-radius: 5px;
   background: var(--primary-color);
   color: var(--text-color);
